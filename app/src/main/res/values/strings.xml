@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BaoCaoMonMaHoavaMatMa</string>
+    <string name="key_table">Key Table</string>
+    <string name="clear">Clear</string>
+    <string name="decrypt">Decrypt</string>
+    <string name="encrypt">Encrypt</string>
+    <string name="key">Key</string>
+    <string name="plain_text">Plain Text</string>
+    <string name="copy">Copy</string>
+</resources>
